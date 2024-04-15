@@ -37,3 +37,5 @@ License:
 This repository is licensed. Feel free to use the code for educational purposes or contribute to open-source projects.
 
 Thank you for visiting my GitHub repository! Happy coding! 🚀
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-thu&theme=dark&show_icons=true)
