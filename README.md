@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Hey there! 👋 I'm a 20-year-old CS major currently attending Orange Coast College. My passion lies in coding, particularly in C++ and Java. I'm constantly learning and exploring new concepts in software development to enhance my skills and broaden my horizons.
+I'm a 20-year-old CS major currently attending Orange Coast College. My passion lies in coding, particularly in C++ and Java. I'm constantly learning and exploring new concepts in software development to enhance my skills and broaden my horizons.
 
 Repository Overview:
 This repository is a collection of projects, assignments, and experiments that I've worked on during my journey through college and beyond. Here, you'll find a mix of C++ and Java projects showcasing my understanding and proficiency in these languages.
